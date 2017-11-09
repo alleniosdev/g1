@@ -1,2 +1,4 @@
-1.this readme is just for test
+Git is a distributed  version contril system.
+Git is free software.
+
 
